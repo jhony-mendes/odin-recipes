@@ -1,0 +1,1 @@
+Assignment to train the basic HTML knowledge adquired from the fists lessons of The Odin Project.
