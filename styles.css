@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(0,0,255,0.4);
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    font-size: 25px;
+}
