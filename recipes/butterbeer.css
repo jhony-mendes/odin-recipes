@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(251, 255, 0,0.4);
+    background-color: #A39F8E;
 }
 
 h1{
@@ -13,13 +13,13 @@ img {
 }
 
 .description {
-    background-color: salmon;
+    background-color: #EDD88C;
 }
 
 .ingredients {
-    background-color: sandybrown;
+    background-color: #D0E9D1;
 }
 
 .steps {
-    background-color: tan;
+    background-color: #B3993E;
 }
